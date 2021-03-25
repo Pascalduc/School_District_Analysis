@@ -1,7 +1,7 @@
 # School_District_Analysis
 Module 4 assignment
 ## Overview of the school district analysis
-In this analysis, we help Maria review student scores for the school board. After evidence of academic dishonesty were suspected, we removed all scores for Thomas High School (THS) students and re-analyzed the data.
+In this analysis, we help Maria review student scores for the school board. After evidence of academic dishonesty were suspected, we removed all scores for Thomas High School (THS) 9th grade students and re-analyzed the data.
 ## Results
 First, we used the `loc` method to locate and replace all grade 9 math and reading scores from THS students using the imported module numpy and the `np.nan` function.  
 ```
