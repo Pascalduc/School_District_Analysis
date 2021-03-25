@@ -10,7 +10,7 @@ student_data_df.loc[(student_data_df['school_name'] == 'Thomas High School')
 ```
 The dataframe was reassembled with the new data and we confirmed `NaN` appeared in the select cells in the district summary.
 ### Student data
-![student_data](Resources/ student_data.png)
+![student_data](Resources/student_data.png)
 In order to recalculate averages, we removed the 9th grade THS students from our total count and continued with further analysis. 
 ### District summary
 ![district_summary](Resources/ district_summary.png)
