@@ -56,4 +56,4 @@ The same no difference result was observed in the score by school size table.
 In the school type summary, no difference can be observed.
 
 ## Summary
-To summarize, removing THS 9th grade scores did not affect the overall averages and rankings. This is because only 461 scores out of 39 170 were remove. This represents only about ~1.2% of the total students in the district. The important thing is to adjust our student count to exclude those with no scores. If there was confirmed academic dishonesty, it most likely was minimal and did not affect any results. 
+To summarize, removing THS 9th grade scores did not affect the overall averages and rankings. This is because only 461 scores out of 39 170 were remove. This represents only about ~1.2% of the total students in the district. The important thing is to adjust our student count to exclude those with no scores. If there was confirmed academic dishonesty, it most likely was minimal and did not affect any results. Of course, if cheating is confirm a 0 could be assign and this would affect the averages much more.
